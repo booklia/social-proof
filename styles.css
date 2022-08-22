@@ -54,7 +54,7 @@ body {
     font-size: 1.4em;
 }
 
-.advertisment--text {
+.presentation--text {
     color: hsl(303, 10%, 53%);
     margin-top: 0px;
     letter-spacing: 1px;
@@ -151,7 +151,7 @@ body {
 
 
 @media (max-width: 1280px) {
-    .advertisment, .review-card, .card-block {
+    .presentation, .review-card, .card-block {
         flex-direction: column;
         margin: 0 auto
     }
